@@ -8,3 +8,4 @@ Each pattern is implemented in a separated branch, except the strategy. After th
  
  - Strategy
  - Chain of Responsibility 
+ - Template mehtod
