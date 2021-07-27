@@ -1,8 +1,8 @@
-package io.clebersimm.store.strategy.taxes;
+package io.clebersimm.store.taxes;
 
 import java.math.BigDecimal;
 
-import io.clebersimm.store.strategy.budget.Budget;
+import io.clebersimm.store.budget.Budget;
 
 /**
  * Calculate the ICMS taxes over the budget
